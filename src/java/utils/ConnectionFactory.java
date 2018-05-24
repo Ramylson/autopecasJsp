@@ -10,7 +10,7 @@ import java.util.logging.Logger;
  */
 public class ConnectionFactory {
     private static Connection conexao;
-    private static final String URL = "jdbc:mysql://localhost/autopecas";
+    private static final String URL = "jdbc:mysql://localhost/system_jsp";
     private static final String USUARIO = "root";
     private static final String PASSWD = null;
     
